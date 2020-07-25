@@ -6,6 +6,7 @@ Hi there 👋, I'm Chi — a frontend engineer & freelancer at [Upwork](https://
 - I also have interest in [design](https://dribbble.com/chiputera)
 
 ## 📫 Get in touch
+- https://chiputera.com/contact
 - https://www.linkedin.com/in/chiputera/
 - https://twitter.com/chiputera
 
