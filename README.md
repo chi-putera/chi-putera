@@ -1,9 +1,9 @@
 # Chiputera
-Hi there 👋, I'm Chi — a frontend engineer & freelancer at [Upwork](https://www.upwork.com/fl/chiputerachiputera). I’m currently working on **Rails-Vue-ReactNative** project for one of my client and also working on my side project using **Adonis-GraphQL-Next.js**.
+Hi there 👋, I'm Chi — a full-stack developer & freelancer. I’m currently working on **Rails-Vue-ReactNative** project for one of my clients.
 
 ## ⚡ Fun fact
-- I’m currently learning how to sleep eary.
-- I also have interest in [design](https://dribbble.com/chiputera)
+- I’m currently learning how to sleep early.
+- I also have an interest in [design](https://dribbble.com/chiputera)
 
 ## 📫 Get in touch
 - https://chiputera.com/contact
