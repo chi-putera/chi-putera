@@ -8,7 +8,6 @@ Hi there 👋, I'm Chi — a full-stack developer & freelancer. I’m currently 
 ## 📫 Get in touch
 - https://chiputera.com/contact
 - https://www.linkedin.com/in/chiputera/
-- https://twitter.com/chiputera
 
 <!--
 **chi-putera/chi-putera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
